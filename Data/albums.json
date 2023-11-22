@@ -1,0 +1,192 @@
+{ "albumsList": [
+	{
+		"artist": "King Crimson",
+		"genre": "Rock",
+		"albumDetails":{
+			"artwork":"images/KCAlbum",
+			"name":"In the Court of the Crimson King",
+			"releaseYear":"1969"
+			},
+		"price": 30
+	},
+	{
+		"artist": "Pink Floyd",
+		"genre": "Rock",
+		"albumDetails":{
+			"artwork":"images/PinkFloydMoon-Album",
+			"name":"The Dark Side of the Moon",
+			"releaseYear":"1973"
+			},
+		"price": 25
+	},
+	{
+		"artist": "Pink Floyd",
+		"genre": "Rock",
+		"albumDetails":{
+			"artwork":"images/PinkFloydTheWall-Album",
+			"name":"The Wall",
+			"releaseYear":"1979"
+			},
+		"price": 25
+	},
+	{
+		"artist": "Creedence Clearwater Revival",
+		"genre": "Rock",
+		"albumDetails":{
+			"artwork":"images/CCR-CosmosFactory-Album",
+			"name":"Cosmos Factory",
+			"releaseYear":1970
+        },
+		"price": 28
+	},
+	{
+		"artist": "Creedence Clearwater Revival",
+		"genre": "Rock",
+		"album_details":{
+			"artwork":"images/CCR-Pendulum-Album",
+			"name":"Pendulum",
+			"releaseYear":"1970"
+			},
+		"price": 26
+	},
+	{
+		"artist": "The Beatles",
+		"genre": "Rock",
+		"album_details":{
+			"artwork":"images/CCR-Revolver-Album",
+			"name":"Revolver",
+			"release year":"1966"
+			},
+		"price": 35
+	},
+	{
+		"artist": "The Beatles",
+		"genre": "Rock",
+		"albumDetails":{
+			"artwork":"images/CCR-AR-Album",
+			"name":"Abbey Road",
+			"releaseYear":"1969"
+			},
+		"price": 35
+	},
+	{
+		"artist": "Iron Maiden",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/IM-Powerslave-Album",
+			"name":"Powerslave",
+			"releaseYear":"1984"
+			},
+		"price": 32
+	},
+	{
+		"artist": "Iron Maiden",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/IM-IronMaiden-Album",
+			"name":"Iron Maiden",
+			"releaseYear":"1980"
+			},
+		"price": 29
+	},
+	{
+		"artist": "System of a Down",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/SOAD-StealThisAlbum-Album",
+			"name":"Steal This Album",
+			"releaseYear":"2003"
+			},
+		"price": 31
+	},
+	{
+		"artist": "System of a Down",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/SOAD-Mezmerize-Album",
+			"name":"Mezmerize",
+			"releaseYear":"2005"
+			},
+		"price": 33
+	},
+	{
+		"artist": "Limp Bizkit",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/LB-SignificantOther-Album",
+			"name":"Steal This Album",
+			"releaseYear":"1999"
+			},
+		"price": 32
+	},
+	{
+		"artist": "Metallica",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/M-HS-Album",
+			"name":"Hardwired... to Self-Destruct",
+			"releaseYear":"2016"
+			},
+		"price": 55
+	},
+	{
+		"artist": "Avenged Sevenfold",
+		"genre": "Metal",
+		"albumDetails":{
+			"artwork":"images/AS-Life-Album",
+			"name":"Life is But a Dream...",
+			"releaseYear":"2023"
+			},
+		"price": 40
+	},
+	{
+		"artist": "Taylor Swift",
+		"genre": "Pop",
+		"albumDetails":{
+			"artwork":"images/TS-1989-Album",
+			"name":"1989 (Taylor Swift Version)",
+			"releaseYear":"2023"
+			},
+		"price": 40
+	},
+	{
+		"artist": "Miley Cyrus",
+		"genre": "Pop",
+		"albumDetails":{
+			"artwork":"images/MC-ESV-Album",
+			"name":"Endless Summer Vacation",
+			"releaseYear":"2023"
+			},
+		"price": 45
+	},
+	{
+		"artist": "Michael Jackson",
+		"genre": "Pop",
+		"albumDetails":{
+			"artwork":"images/MJ-Thiller-Album",
+			"name":"Thiller",
+			"releaseYear":"1982"
+			},
+		"price": 33
+	},
+	{
+		"artist": "Pet Shop Boys",
+		"genre": "Pop",
+		"albumDetails":{
+			"artwork":"images/PSB-Please-Album",
+			"name":"Thiller",
+			"releaseYear":"1986"
+			},
+		"price": 28
+	},
+	{
+		"artist": "Jon Batiste",
+		"genre": "Pop",
+		"albumDetails":{
+			"artwork":"images/JB-WMR-Album",
+			"name":"World Radio Music",
+			"releaseYear":"2023"
+			},
+		"price": 40
+	}
+]}
