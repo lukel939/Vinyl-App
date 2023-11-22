@@ -64,7 +64,7 @@
 	{
 		"artist": "The Beatles",
 		"genre": "Rock",
-		"price": 35
+		"price": 35,
 		"albumDetails":{
 			"artwork":"images/CCR-AR-Album",
 			"name":"Abbey Road",
