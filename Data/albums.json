@@ -3,192 +3,157 @@
 		"artist": "King Crimson",
 		"genre": "Rock",
 		"price": 30,
-		"albumDetails":{
-			"artwork":"images/KCAlbum",
-			"name":"In the Court of the Crimson King",
-			"releaseYear":"1969"
-			}
+		"artwork":"images/KCAlbum",
+		"name":"In the Court of the Crimson King",
+		"releaseYear":"1969"
 	},
 	{
 		"artist": "Pink Floyd",
 		"genre": "Rock",
 		"price": 25,
-		"albumDetails":{
-			"artwork":"images/PinkFloydMoon-Album",
-			"name":"The Dark Side of the Moon",
-			"releaseYear":"1973"
-			}
+		"artwork":"images/PinkFloydMoon-Album",
+		"name":"The Dark Side of the Moon",
+		"releaseYear":"1973"
 		
 	},
 	{
 		"artist": "Pink Floyd",
 		"genre": "Rock",
 		"price": 25,
-		"albumDetails":{
-			"artwork":"images/PinkFloydTheWall-Album",
-			"name":"The Wall",
-			"releaseYear":"1979"
-			}
+		"artwork":"images/PinkFloydTheWall-Album",
+		"name":"The Wall",
+		"releaseYear":"1979"
 	},
 	{
 		"artist": "Creedence Clearwater Revival",
 		"genre": "Rock",
 		"price": 28,
-		"albumDetails":{
-			"artwork":"images/CCR-CosmosFactory-Album",
-			"name":"Cosmos Factory",
-			"releaseYear":"1970"
-        		}
+		"artwork":"images/CCR-CosmosFactory-Album",
+		"name":"Cosmos Factory",
+		"releaseYear":"1970"
 	},
 	{
 		"artist": "Creedence Clearwater Revival",
 		"genre": "Rock",
 		"price": 26,
-		"album_details":{
-			"artwork":"images/CCR-Pendulum-Album",
-			"name":"Pendulum",
-			"releaseYear":"1970"
-			}
+		"artwork":"images/CCR-Pendulum-Album",
+		"name":"Pendulum",
+		"releaseYear":"1970"
 	},
 	{
 		"artist": "The Beatles",
 		"genre": "Rock",
 		"price": 35,
-		"album_details":{
-			"artwork":"images/CCR-Revolver-Album",
-			"name":"Revolver",
-			"release year":"1966"
-			}
+		"artwork":"images/CCR-Revolver-Album",
+		"name":"Revolver",
+		"release year":"1966"
 		
 	},
 	{
 		"artist": "The Beatles",
 		"genre": "Rock",
 		"price": 35,
-		"albumDetails":{
-			"artwork":"images/CCR-AR-Album",
-			"name":"Abbey Road",
-			"releaseYear":"1969"
-			}
+		"artwork":"images/CCR-AR-Album",
+		"name":"Abbey Road",
+		"releaseYear":"1969"
 	},
 	{
 		"artist": "Iron Maiden",
 		"genre": "Metal",
 		"price": 32,
-		"albumDetails":{
-			"artwork":"images/IM-Powerslave-Album",
-			"name":"Powerslave",
-			"releaseYear":"1984"
-			}
+		"artwork":"images/IM-Powerslave-Album",
+		"name":"Powerslave",
+		"releaseYear":"1984"
 	},
 	{
 		"artist": "Iron Maiden",
 		"genre": "Metal",
 		"price": 29,
-		"albumDetails":{
-			"artwork":"images/IM-IronMaiden-Album",
-			"name":"Iron Maiden",
-			"releaseYear":"1980"
-			}
+		"artwork":"images/IM-IronMaiden-Album",
+		"name":"Iron Maiden",
+		"releaseYear":"1980"
 	},
 	{
 		"artist": "System of a Down",
 		"genre": "Metal",
 		"price": 31,
-		"albumDetails":{
-			"artwork":"images/SOAD-StealThisAlbum-Album",
-			"name":"Steal This Album",
-			"releaseYear":"2003"
-			}
+		"artwork":"images/SOAD-StealThisAlbum-Album",
+		"name":"Steal This Album",
+		"releaseYear":"2003"
 	},
 	{
 		"artist": "System of a Down",
 		"genre": "Metal",
 		"price": 33,
-		"albumDetails":{
-			"artwork":"images/SOAD-Mezmerize-Album",
-			"name":"Mezmerize",
-			"releaseYear":"2005"
-			}
+		"artwork":"images/SOAD-Mezmerize-Album",
+		"name":"Mezmerize",
+		"releaseYear":"2005"
 	},
 	{
 		"artist": "Limp Bizkit",
 		"genre": "Metal",
 		"price": 32,
-		"albumDetails":{
-			"artwork":"images/LB-SignificantOther-Album",
-			"name":"Significant Other",
-			"releaseYear":"1999"
-			}
+		"artwork":"images/LB-SignificantOther-Album",
+		"name":"Significant Other",
+		"releaseYear":"1999"
+	
 	},
 	{
 		"artist": "Metallica",
 		"genre": "Metal",
 		"price": 55,
-		"albumDetails":{
-			"artwork":"images/M-HS-Album",
-			"name":"Hardwired... to Self-Destruct",
-			"releaseYear":"2016"
-			}
+		"artwork":"images/M-HS-Album",
+		"name":"Hardwired... to Self-Destruct",
+		"releaseYear":"2016"
 	},
 	{
 		"artist": "Avenged Sevenfold",
 		"genre": "Metal",
 		"price": 40,
-		"albumDetails":{
-			"artwork":"images/AS-Life-Album",
-			"name":"Life is But a Dream...",
-			"releaseYear":"2023"
-			}
+		"artwork":"images/AS-Life-Album",
+		"name":"Life is But a Dream...",
+		"releaseYear":"2023"
 	},
 	{
 		"artist": "Taylor Swift",
 		"genre": "Pop",
 		"price": 40,
-		"albumDetails":{
-			"artwork":"images/TS-1989-Album",
-			"name":"1989 (Taylor Swift Version)",
-			"releaseYear":"2023"
-			}
+		"artwork":"images/TS-1989-Album",
+		"name":"1989 (Taylor Swift Version)",
+		"releaseYear":"2023"
 	},
 	{
 		"artist": "Miley Cyrus",
 		"genre": "Pop",
 		"price": 45,
-		"albumDetails":{
-			"artwork":"images/MC-ESV-Album",
-			"name":"Endless Summer Vacation",
-			"releaseYear":"2023"
-			}
+		"artwork":"images/MC-ESV-Album",
+		"name":"Endless Summer Vacation",
+		"releaseYear":"2023"
 	},
 	{
 		"artist": "Michael Jackson",
 		"genre": "Pop",
 		"price": 33,
-		"albumDetails":{
-			"artwork":"images/MJ-Thiller-Album",
-			"name":"Thiller",
-			"releaseYear":"1982"
-			}
+		"artwork":"images/MJ-Thiller-Album",
+		"name":"Thiller",
+		"releaseYear":"1982"
+			
 	},
 	{
 		"artist": "Pet Shop Boys",
 		"genre": "Pop",
 		"price": 28,
-		"albumDetails":{
-			"artwork":"images/PSB-Please-Album",
-			"name":"Please",
-			"releaseYear":"1986"
-			}
+		"artwork":"images/PSB-Please-Album",
+		"name":"Please",
+		"releaseYear":"1986"
+			
 	},
 	{
 		"artist": "Jon Batiste",
 		"genre": "Pop",
 		"price": 40,
-		"albumDetails":{
-			"artwork":"images/JB-WMR-Album",
-			"name":"World Radio Music",
-			"releaseYear":"2023"
-			}
+		"artwork":"images/JB-WMR-Album",
+		"name":"World Radio Music",
+		"releaseYear":"2023"
 	}
 ]}
